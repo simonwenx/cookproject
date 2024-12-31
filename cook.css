@@ -1,0 +1,10 @@
+.enokiroll-image{
+  display: flex;
+  align-items: center;
+  width: 400px;
+  height: 300px;
+  border-color: grey;
+  border-width: 1px;
+  margin-top : 200px;
+  margin-left : 150px;
+}

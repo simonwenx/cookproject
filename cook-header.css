@@ -1,0 +1,15 @@
+.top-header{
+  background-color : lightpink;
+  position : fixed;
+  top : 0;
+  left : 0;
+  right : 0;
+  height : 200px;;
+  width : 100%;
+}
+.left-sidebar{
+  background-color : lightblue;
+  position : fixed;
+  height : 100%;
+  width : 150px;
+}
